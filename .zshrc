@@ -85,25 +85,6 @@ export PATH=$PATH:/Applications/Racket\ v6.2/bin
 . /Users/bradystilwell/Dev/z/z.sh
 export EDITOR='/usr/local/bin/atom --wait'
 export GIT_EDITOR='/usr/local/bin/atom --wait'
-export SENDGRID_USERNAME="bradystilwell"
-export SENDGRID_PASSWORD="Bearsfan#54"
-export ELASTICSEARCH_URL="http://localhost:3000"
-export YELP_CONSUMER_KEY='vUk27oLj0COZ0Dygt2MIKQ'
-export YELP_CONSUMER_SECRET='q4xa7ShahaHz5zSuRke2I7sPUKM'
-export YELP_TOKEN='LuoOC3DfYMWd-bUJA1GBoTuW_BWm1X0L'
-export YELP_SECRET_TOKEN='RlszmCCvxb8RTa15xfAvH7VhiQE'
-export AWSKEY='AKIAJQIYIQ33F5B55C3A'
-export AWSKEYSEC='v0kU4E6dJnt2fqVS43Q2gyZ3KvfzZztv7SjG7Wfv'
-export BTREEID='fhqvftg67ttdkmdm'
-export BTREEPK='3d2dt6tv672k99f9'
-export BTREEPRK='369871c8e10897875d860ed502ce82f3'
-export DB_PASS_LH='MD@;FbY.5FXwQTsX'
 export PATH=/Users/bradystilwell/scala/bin:$PATH
 
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
-
-# The next line updates PATH for the Google Cloud SDK.
-source '/Users/bradystilwell/workspace/gcloud/google-cloud-sdk/path.zsh.inc'
-
-# The next line enables shell command completion for gcloud.
-source '/Users/bradystilwell/workspace/gcloud/google-cloud-sdk/completion.zsh.inc'
